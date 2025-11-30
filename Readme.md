@@ -173,7 +173,7 @@ No categories or Q&A formats are required — it learns directly from your writi
 
 # 🧑‍💻 Created By  
 
-Toetu  Faafouina 
+Wagi88 
 
 “Learning AI from scratch — one line of Python at a time.”  
 
